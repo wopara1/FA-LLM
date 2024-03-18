@@ -1,5 +1,3 @@
-My dog's name is Sunny.
-
 Most Recent Resume:
 Emmanuel Wopara ~ ewopara@gmail.com ~ Cell: (832) 486-7488
 EDUCATION
@@ -16,10 +14,12 @@ IT Programmer — Comptroller of Public Accounts: Austin, TX
 ● Engineered an advanced file processing system for annual reports, achieving a remarkable 300% increase in efficiency compared to the previous system.
 ● Orchestrated and supervised the transition of transaction recording for all programs within the tax system, enhancing security measures and accuracy monitoring over 500 critical programs.
 ● Played a pivotal role in the meticulous monitoring, testing, and analysis of mainframe programs, ensuring optimal functionality of the Texas Tax system, managing a workload of 5-10 program updates weekly while maintaining stringent quality control standards.
+November 2022 — Present
 IT Support Technicians — Texas A&M Provost IT Office: College Station, TX
 ● Implemented machine deployment across 12 departments at Texas A&M, optimizing software and hardware configurations resulting in a notable 10% reduction in support team turnover time.
 ● Provided technical assistance to 25 diverse departments using Active Directory and SCCM via the ServiceDesk Plus ticketing system.
 ● Orchestrated warranty management, streamlined ordering of system parts, and efficient imaging processes across 10 departments, ensuring seamless operations and minimal downtime.
+May 2021 — August 2022
 PROJECT
 Personal — Developed Trading System
 ● Developing a comprehensive trading software encompassing 360-degree trading plan, which facilitates up to 50 customizable rules per instrument to optimize performance.
@@ -31,5 +31,3 @@ Web-based application, streamlining attendance management for a TAMU organizatio
 BEMW Clothing — Front-end & Back-end Developer —
 ● Engineered a robust Shopify store for a clothing company, managing over 15,000 entities
 with advanced CRUD functionalities and tailored access levels, aligning with specific database design and user preferences. Methodology: Agile
-November 2022 — Present
-May 2021 — August 2022
