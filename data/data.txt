@@ -1,1 +1,35 @@
 My dog's name is Sunny.
+
+Most Recent Resume:
+Emmanuel Wopara ~ ewopara@gmail.com ~ Cell: (832) 486-7488
+EDUCATION
+Texas A&M University, College Station TX Computer Science Major
+Project Management Minor
+Cumulative GPA: 3.2
+HONORS
+Posse Foundation Full-Tuition Leadership Scholarship (2018-2022)
+SKILLS & ABILITIES
+React * C++ * JAVA * Python * CSS * HTML5 * Jira * SQL* Git * Natural One * JCL * DB2 * Service Now *
+JavaScript * Microsoft Office *Figma * Cobol * Git * Agile * Waterfall * Teradata * Data Studio
+PROFESSIONAL EXPERIENCE
+IT Programmer — Comptroller of Public Accounts: Austin, TX
+● Engineered an advanced file processing system for annual reports, achieving a remarkable 300% increase in efficiency compared to the previous system.
+● Orchestrated and supervised the transition of transaction recording for all programs within the tax system, enhancing security measures and accuracy monitoring over 500 critical programs.
+● Played a pivotal role in the meticulous monitoring, testing, and analysis of mainframe programs, ensuring optimal functionality of the Texas Tax system, managing a workload of 5-10 program updates weekly while maintaining stringent quality control standards.
+IT Support Technicians — Texas A&M Provost IT Office: College Station, TX
+● Implemented machine deployment across 12 departments at Texas A&M, optimizing software and hardware configurations resulting in a notable 10% reduction in support team turnover time.
+● Provided technical assistance to 25 diverse departments using Active Directory and SCCM via the ServiceDesk Plus ticketing system.
+● Orchestrated warranty management, streamlined ordering of system parts, and efficient imaging processes across 10 departments, ensuring seamless operations and minimal downtime.
+PROJECT
+Personal — Developed Trading System
+● Developing a comprehensive trading software encompassing 360-degree trading plan, which facilitates up to 50 customizable rules per instrument to optimize performance.
+● The system efficiently facilitates the management of trade risk, enabling meticulous oversight of vast amounts of individual trades and the holistic risk of the trading account.
+● The system undergoes rigorous backtesting with 10 years of historical data, followed by ongoing real-time forward testing to validate its performance and robustness.
+SCEC Attendance Tracker — Project Manager & Front-end Developer —
+● Oversaw and led a team of 6 members through the deployment of a cutting-edge
+Web-based application, streamlining attendance management for a TAMU organization, ensuring accurate tracking for over 500 members, and delivering comprehensive event feedback. Methodology: Agile
+BEMW Clothing — Front-end & Back-end Developer —
+● Engineered a robust Shopify store for a clothing company, managing over 15,000 entities
+with advanced CRUD functionalities and tailored access levels, aligning with specific database design and user preferences. Methodology: Agile
+November 2022 — Present
+May 2021 — August 2022

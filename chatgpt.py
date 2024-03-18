@@ -4,12 +4,10 @@ import time
 
 import openai
 from langchain.chains import ConversationalRetrievalChain
-from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI  # Updated import
 from langchain_community.document_loaders import DirectoryLoader
-from langchain_openai import OpenAIEmbeddings
 from langchain.indexes import VectorstoreIndexCreator
 from langchain.indexes.vectorstore import VectorStoreIndexWrapper
-from langchain_community.llms import OpenAI
 from langchain_community.vectorstores import Chroma
 
 import constants
